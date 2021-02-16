@@ -1,6 +1,6 @@
 ### Hi Welcome to zhouyuming's personal github repository 👋
 ![](https://github-readme-stats.vercel.app/api?username=zhouyuming&show_icons=true&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dumplingbao&theme=radical&layout=compact&hide=glsl,python)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zhouyuming&theme=radical&layout=compact&hide=glsl,python)
 ![](https://visitor-badge.glitch.me/badge?page_id=zhouyuming.readme)
 <!--
 **zhouyuming/zhouyuming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
