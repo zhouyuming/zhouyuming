@@ -1,4 +1,5 @@
-### Hi there! I'm zhouyuming 👋[![ ](https://cfrating.ihcr.top/?user=ouuan&style=flat-square)](https://codeforces.com/profile/ouuan)
+### Hi there! I'm zhouyuming 👋
+[![ ](https://cfrating.ihcr.top/?user=zhouyuming&style=flat-square)](https://codeforces.com/profile/zhouyuming)
 ![](https://github-readme-stats.vercel.app/api?username=zhouyuming&show_icons=true&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zhouyuming&theme=radical&layout=compact&hide=glsl,python)
 ![](https://visitor-badge.glitch.me/badge?page_id=zhouyuming.readme)
