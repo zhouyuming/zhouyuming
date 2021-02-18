@@ -11,6 +11,7 @@
 <p align="center">
   <a href="https://github.com/zhouyuming"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/zhouyuming?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
   <a href="https://github.com/zhouyuming"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
+  <a href="https://github.com/zhouyuming"><img src="https://visitor-badge.laobi.icu/badge?page_id=zhouyuming.zhouyuming" alt="visitor badge"/></a>
 </p>
 <!--
 **zhouyuming/zhouyuming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
