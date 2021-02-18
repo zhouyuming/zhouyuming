@@ -5,6 +5,9 @@
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=zhouyuming&column=7" alt="zhouyuming's Github Trophy" />
 </p>
 <hr>
+<p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=zhouyuming.zhouyuming" alt="visitor badge"/>       
+</p>
 <!--
 **zhouyuming/zhouyuming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
