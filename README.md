@@ -11,6 +11,13 @@
 <p align="center">
   <a href="https://github.com/zhouyuming"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/zhouyuming?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
+## 🔥 My contribution streak
+
+<p align="center">
+  <a href="https://github.com/rjsamra/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rjsamra#version3"/>
+  </a>
+</p>
 <!--
 **zhouyuming/zhouyuming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
