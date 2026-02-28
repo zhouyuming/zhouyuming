@@ -13,6 +13,4 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Keep%20it%20simple,%20stupid&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
 </p>
 
-<object width="340" height="86" data="http://music.163.com/style/swf/widget.swf?
-sid=445154960&type=2&auto=0&width=320&height=66" 
-type="application/x-shockwave-flash"></object>
+<object width="340" height="86" data="http://music.163.com/style/swf/widget.swf?sid=445154960&type=2&auto=0&width=320&height=66" type="application/x-shockwave-flash"></object>
